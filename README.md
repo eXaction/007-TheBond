@@ -1,8 +1,38 @@
+Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
 
+You can download these script on various platform 
 
-## Preview
+ Linux  :
+ 
+ 1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt
+ 5. python3 007-TheBond 
+ 
+ 
+ Macintosh : 
+ 
+  1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt
+ 5. python3 007-TheBond 
+ 
+ 
+ Termux :
+  1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt
+ 5. python3 007-TheBond 
 
-(https://github.com/007-theBond/blob/master/ScrnShot.jpg )
+Testing :
+this script is tested  on these operating system 
+
+1. Kali Linux
+2. Parrot Linux
+3. Termux 
 
 
 

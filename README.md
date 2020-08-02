@@ -1,3 +1,5 @@
+Light Weight OSNIT Script
+
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
 
 You can download these script on various platform 

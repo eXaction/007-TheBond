@@ -1,4 +1,4 @@
-Light Weight OSNIT Script
+Light Weight OSNIT Script for All platfrom
 
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
 

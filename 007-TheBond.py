@@ -40,7 +40,7 @@ def check(inputt):
             else:
                 print("[*] Verified : Yes")
                 print(acc.verified())
-        k=str(input("Do you want to dwonlaod the Instagram ",acc,"?"))
+        k=str(input("Do you want to dwonlaod the Instagram ?"))
         if k =="yes":
             with Instascraper() as insta:
                  posts = insta.profile("semicolon.py").timeline_posts()

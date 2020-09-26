@@ -40,15 +40,15 @@ def check(inputt):
             else:
                 print("[*] Verified : Yes")
                 print(acc.verified())
-        k=str(input("Do you want to dwonlaod the Instagram ?"))
+        k=str(input("Do you want to dwonlaod the Instagram  Post  ?"))
         if k =="yes":
             with Instascraper() as insta:
-                 posts = insta.profile("semicolon.py").timeline_posts()
+                 posts = insta.profile(acc).timeline_posts()
                  posts.limit(100).preload(True).filter(lambda p: p.likes_count >= 50)
                  posts.download_all(dest="/Users/user/Desktop/try")
                  print("Sucessfuly Download ");
         else:
-            continue
+            print ()
     
 
             

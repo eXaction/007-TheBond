@@ -47,6 +47,8 @@ def check(inputt):
                  posts.limit(100).preload(True).filter(lambda p: p.likes_count >= 50)
                  posts.download_all(dest="/Users/user/Desktop/try")
                  print("Sucessfuly Download ");
+        else:
+            continue
     
 
             

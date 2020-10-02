@@ -2,7 +2,7 @@ Light Weight OSNIT Script for All platfrom
 
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
 
-You can download these script on various platform 
+You can download the script on various platform 
 
  Linux  :
  

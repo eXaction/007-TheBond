@@ -1,3 +1,4 @@
+aauthor : Sayyed Viquar Ahmed 
 import pyfiglet
 from igdox import dox
 import os
@@ -11,7 +12,7 @@ from urllib.request import urlopen
 import requests
 import sys
 import urllib
-from instascrape import Instascraper
+
      
 def check(inputt):
     try:

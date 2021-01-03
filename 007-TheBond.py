@@ -1,4 +1,4 @@
-aauthor : Sayyed Viquar Ahmed 
+#author : Sayyed Viquar Ahmed 
 import pyfiglet
 from igdox import dox
 import os

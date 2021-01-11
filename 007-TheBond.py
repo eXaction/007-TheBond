@@ -1,4 +1,4 @@
-#author : Sayyed Viquar Ahmed 
+#author: Sayyed Viquar Ahmed 
 import pyfiglet
 from igdox import dox
 import os
@@ -12,7 +12,6 @@ from urllib.request import urlopen
 import requests
 import sys
 import urllib
-
      
 def check(inputt):
     try:
@@ -41,10 +40,7 @@ def check(inputt):
             else:
                 print("[*] Verified : Yes")
                 print(acc.verified())
-       
-    
-
-            
+                
         print('\n')
         return None
     except urllib.error.HTTPError as e:
@@ -102,7 +98,7 @@ if  __name__=="__main__":
     banner=pyfiglet.figlet_format("007-The Bond", font="slant")
     print(banner)
     
-    print(" \t Script by DeadShot0x7  V 2.0")
+    print(" \t Script by DeadShot0x7  V 1.0")
     print("\n \n")
     while(1):
         print("1.Instagram \t 2.Search")

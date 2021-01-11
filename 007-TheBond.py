@@ -107,7 +107,8 @@ if  __name__=="__main__":
     while(1):
         print("1.Instagram \t 2.Search")
         print("3.Phoneloopkup \t 4.Iplookup")
-        print("5.Update \t 6.Exit")
+        print("5.Update \t 6.Search username Across the Social Media")
+        print("7.Exit")
         a=int(input("Select your option :\t"))
         if a == 1:
             inputt = str(input("Ussername : "))
@@ -127,7 +128,12 @@ if  __name__=="__main__":
             except Exception as e:
                 print("Check your Internet Connection or No repository found")
         if a == 6:
-            print("Closing application  10 seconds")
+            print("\n")
+            print(" this features is coming soon")
+            print("\n")
+            
+        if a == 7:
+            print("Closing the application in 10 second")
             time.sleep(1)
             break
 

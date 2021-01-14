@@ -12,6 +12,7 @@ from urllib.request import urlopen
 import requests
 import sys
 import urllib
+from username import *
      
 def check(inputt):
     try:

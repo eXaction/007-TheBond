@@ -34,7 +34,7 @@ this script is tested  on these operating system
 
 1. Kali Linux
 2. Parrot Linux
-3. Termux 
+3. Termux ( find Instagram user is not working currently)
 
 
 

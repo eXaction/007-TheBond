@@ -37,7 +37,7 @@ this script is tested  on these operating system
 3. Termux ( find Instagram user is not working currently)
 
 
-
+Leave a like to the Repository 🙂
 #DiscordServer 
 want to join the server ? 
 use this link to join to server

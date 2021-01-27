@@ -38,7 +38,7 @@ this script is tested  on these operating system
 
 
 Leave a like to the Repository 🙂
-#DiscordServer 
+
+DiscordServer 
 want to join the server ? 
-use this link to join to server
- https://discord.gg/zK8JZkYPQf
+use this link to join to server( https://discord.gg/zK8JZkYPQf)
